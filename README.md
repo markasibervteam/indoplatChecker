@@ -1,4 +1,4 @@
-# indoplatChecker
+# 📸 Screenshot
 
 <p align="center">
   <img src="https://i.postimg.cc/n9FDk8xr/CyberIP-Screenshot.png" alt="CyberIP Screenshot" width="600"/>
