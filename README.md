@@ -24,17 +24,21 @@
 
 ---
 
-## Cara Install (Termux)
-pkg update && pkg upgrade -y
-pkg install git -y
-pkg install python -y
-git clone https://github.com/markasibervteam/indoplatChecker.git
+## Cara Install
+•pkg update && pkg upgrade -y
+
+•pkg install git -y
+
+•pkg install python -y
+
+•git clone https://github.com/markasibervteam/indoplatChecker.git
 
 
 Cara Menjalankan
 
-cd indoplatChecker
-python indoplatChecker.py
+•cd indoplatChecker
+
+•python indoplatChecker.py
 
 ⚠️Disclaimer
 Gunakan tools ini dengan bijak.
@@ -50,12 +54,8 @@ Kami tidak bertanggung jawab atas segala bentuk penyalahgunaan.
   <img src="https://img.shields.io/badge/burpsuite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
   <img src="https://img.shields.io/badge/metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white"/>
 </p>
----
 
-Contact
-
-Owner : @viasec0129
-
-Grup  : Markas Siber V
-
-Link Lengkap : Linktree
+# Contact
+- Owner : [@viasec0129](https://t.me/viasec0129)  
+- Grup : [Markas Siber V](https://t.me/markassiberv)  
+- Link Lengkap : [Linktree](https://linktr.ee/linklengkapkami)
