@@ -10,20 +10,20 @@
 • Jenis kendaraan (pribadi, dinas, umum, diplomatik, pejabat negara).
 • Warna plat kendaraan (hitam, merah, kuning, putih, atau biru diplomatik).
 
-Keuntungan
+#### Keuntungan
 • Mudah digunakan: cukup masukkan nomor plat, langsung keluar hasil.
 • Cepat & offline: semua data ada di dalam script (tidak butuh internet).
 • Informasi lengkap: menampilkan wilayah, jenis kendaraan, serta warna plat.
 • Gratis dari markas siber v team
 
-Fitur
+#### Fitur
 • Cek asal plat nomor → berdasarkan kode (misalnya "B" = Jakarta).
 • Deteksi jenis kendaraan pribadi, dinas, umum, diplomatik, RI.
 • Deteksi warna plat  hitam, merah, kuning, putih, biru diplomatik.
 • di ambil dari data wilayah Indonesia real asli
 
-cara install
-
+### cara install
+```bash
 pkg update && pkg upgrade -y
 pkg install git -y
 pkg install python -y
