@@ -25,7 +25,6 @@
 ---
 
 ## Cara Install (Termux)
-```bash
 pkg update && pkg upgrade -y
 pkg install git -y
 pkg install python -y
