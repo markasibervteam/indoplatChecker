@@ -1,4 +1,10 @@
-indoplatChecker adalah script Python untuk mengecek asal, jenis, dan warna plat nomor kendaraan di Indonesia.
+# 📸 Screenshot
+<p align="center">
+  <img src="https://postimg.cc/n9FDk8xr/alt="CyberIP Screenshot" width="600"/>
+</p>
+
+
+# indoplatChecker adalah script Python untuk mengecek asal, jenis, dan warna plat nomor kendaraan di Indonesia.
 
 • Asal wilayah kendaraan (berdasarkan kode plat).
 • Jenis kendaraan (pribadi, dinas, umum, diplomatik, pejabat negara).
