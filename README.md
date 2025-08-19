@@ -23,16 +23,15 @@
 • di ambil dari data wilayah Indonesia real asli
 
 ### cara install
-```bash
 pkg update && pkg upgrade -y
 pkg install git -y
 pkg install python -y
 git clone https://github.com/markasibervteam/indoplatChecker.git
 
-cara menjalankan 
+### cara menjalankan 
 python indoplatChecker.py
 
-⚠️ Disclaimer
+#####⚠️ Disclaimer
 harap gunakan tools dengan bijak , kami tidak akan bertanggung jawab jika di salah gunakan. 
 
 <p align="center">
