@@ -4,7 +4,7 @@
   <img src="https://i.postimg.cc/n9FDk8xr/CyberIP-Screenshot.png" alt="CyberIP Screenshot" width="600"/>
 </p>
 
-**indoplatChecker** adalah script Python untuk mengecek asal wilayah, jenis, dan warna plat nomor kendaraan di Indonesia.  
+**indoplatChecker** adalah tools untuk mengecek asal wilayah, jenis, dan warna plat nomor kendaraan di Indonesia.  
 
 ---
 
