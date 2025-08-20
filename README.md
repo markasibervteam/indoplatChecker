@@ -42,9 +42,9 @@ jangan cuman di liat dan di pakai aja ! folow github nya agar dapat update tools
 
 Cara Menjalankan
 
-•cd indoplatChecker
+• cd indoplatChecker
 
-•python indoplatChecker.py
+• python indoplatChecker.py
 
 
 ### Terminal yang bisa digunakan
@@ -60,7 +60,7 @@ Cara Menjalankan
 ### Selama ada Python 3 dan pip, hampir semua terminal bisa jalan.
 
 
-⚠️Disclaimer
+#### ⚠️Disclaimer
 Gunakan tools ini dengan bijak.
 Kami tidak bertanggung jawab atas segala bentuk penyalahgunaan.
 
