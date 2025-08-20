@@ -50,51 +50,15 @@ Cara Menjalankan
 ### Terminal yang bisa digunakan
 
 • Termux (Android)
+
 • Linux (Ubuntu, Debian, Fedora, Arch, dll)
+
 • macOS Terminal
+
 • Windows (PowerShell / CMD / WSL / Git Bash / Windows Terminal)
-• Selama ada Python 3 dan pip, hampir semua terminal bisa jalan.
 
-#### Cara Install (umum untuk semua terminal)
+### Selama ada Python 3 dan pip, hampir semua terminal bisa jalan.
 
-1. Pastikan Python 3 terinstall
-• python3 --version
-atau di Windows:
-• python --version
-
-#### Kalau belum ada, install dulu:
-
-• Linux: sudo apt install python3 python3-pip -y
-• macOS: brew install python (kalau pake Homebrew)
-• Windows: install dari python.org
-
-
-2. Clone repo GitHub
-• git clone https://github.com/markasibervteam/indoplatChecker.git
-• cd indoplatChecker
-
-3. Install requirements
-• pip3 install -r requirements.txt
-
-Kalau Windows:
-• pip install -r requirements.txt
-
-4. Jalankan script
-
-• python3 indoplatChecker.py
-
-Windows:
-
-• python indoplatChecker.py
-
-### Tips Tambahan
-
-• Di Termux, install dulu paket pendukung:
-• pkg update && pkg upgrade -y
-• pkg install git python -y
-• Di WSL (Windows Subsystem for Linux), langkahnya sama seperti Linux.
-• Kalau ada error module, install manual:
-• pip3 install nama_module
 
 ⚠️Disclaimer
 Gunakan tools ini dengan bijak.
