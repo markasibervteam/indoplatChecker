@@ -1,7 +1,5 @@
-# 📸 Screenshot
-
 <p align="center">
-  <img src="https://a.top4top.io/p_3518wbgjf0.jpg" alt="CyberIP Screenshot" width="600"/>
+  <img src="https://i.top4top.io/p_3519bh7kq0.jpg" alt="CyberIP Screenshot" width="600"/>
 </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=markasibervteam" alt="markasibervteam" /></a> </p>
