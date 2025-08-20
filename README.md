@@ -40,7 +40,7 @@ jangan cuman di liat dan di pakai aja ! folow github nya agar dapat update tools
 •git clone https://github.com/markasibervteam/indoplatChecker.git
 
 
-Cara Menjalankan
+### Cara Menjalankan
 
 • cd indoplatChecker
 
