@@ -30,7 +30,7 @@ jangan cuman di liat dan di pakai aja ! folow github nya agar dapat update tools
 - Mudah digunakan → cukup masukkan nomor plat, hasil langsung keluar.  
 - Cepat & Offline → semua data sudah ada di dalam script (tidak butuh internet).  
 - Informasi lengkap → wilayah, jenis kendaraan, dan warna plat.  
-- Gratis → dibuat oleh Markas Siber V Team.  
+- Gratis dari markas siber v 
 
 ---
 
