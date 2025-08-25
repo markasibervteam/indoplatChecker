@@ -35,6 +35,7 @@ jangan cuman di liat dan di pakai aja ! folow github nya agar dapat update tools
 ---
 
 ## Cara Install di termux 
+
 •pkg update && pkg upgrade -y
 
 •pkg install git -y
